@@ -9,7 +9,7 @@ Currently, I am focused on the intersection of **SRE and GenAI**, architecting p
 
 ### 🔭 What I'm Working On
 - **AI Infrastructure:** Re-architecting GKE clusters to support high-scale GenAI workloads.
-- **LLM Ops:** Implementation of **Envoy AI Gateway** and **MCP Servers** for enterprise use cases.
+- **AI/ML Ops:** Implementation of **Envoy AI Gateway** and **MCP Servers** for enterprise use cases.
 - **Cloud Native Governance:** Driving the adoption of **GitOps** and **Policy as Code** to standardize deployments and enhance reliability across Enterprise.
 
 ---
@@ -27,7 +27,7 @@ Currently, I am focused on the intersection of **SRE and GenAI**, architecting p
 ![Envoy](https://img.shields.io/badge/Envoy_Proxy-000000?style=for-the-badge&logo=envoyproxy&logoColor=white) ![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=hashicorpvault&logoColor=black) ![OIDC](https://img.shields.io/badge/Auth-OIDC_&_OAuth-eb5424?style=for-the-badge) ![IAM](https://img.shields.io/badge/IAM_&_Security-red?style=for-the-badge)
 
 #### 🐍 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ---
 
 ### 🌱 Community & Innovation
