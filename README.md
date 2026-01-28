@@ -1,16 +1,19 @@
 ## Hi there, I'm Monali Nayak 👋
-### Senior Platform Engineer @ Elastic | Cloud Native & AI Infrastructure
-
-I bridge the gap between **Application Logic** and **Deep Infrastructure**, building resilient systems that don't break at 3 AM. 
-
-Currently, I am focused on the intersection of **Platform and AI**, architecting production-ready environments for Large Language Models. Beyond just "keeping the lights on", I specialize in designing **Internal Developer Platforms (IDP)** creating self-service paved paths that empower developers to innovate while enforcing enterprise-grade security and compliance.
+### Senior Platform Engineer @ Elastic | Cloud Native & AI Infrastructure 
 
 ---
 
 ### 🔭 What I'm Working On
+> I am a Senior Platform Engineer at Elastic with 6+ years of experience focused on the intersection of Platform & AI
 - **AI Infrastructure:** Re-architecting GKE clusters to support high-scale GenAI workloads.
 - **AI/ML Ops:** Implementation of **Envoy AI Gateway** and **MCP Servers** for enterprise use cases.
 - **Cloud Native Governance:** Driving the adoption of **GitOps** and **Policy as Code** to standardize deployments and enhance reliability across Enterprise.
+
+---
+
+### 🔍 Currently Learning
+- ⛓️ **Auth in MCP servers & Agents**
+- 🕸️ **Agentic AI Design Patterns**
 
 ---
 
@@ -41,6 +44,6 @@ You can find me on my yoga mat 🧘🏻‍♀️, working on a new painting 🎨
 ---
 
 ### 📫 Connect with me
-* **Mentorship & Coffee Chats:** [Book a session on Topmate](https://topmate.io/monali_nayak/)
-* **Professional Updates:** [LinkedIn](https://www.linkedin.com/in/monali-nayak/)
+* **Mentorship & Coffee Chats:** [Grab time with me!](https://topmate.io/monali_nayak/)
+* **Let's nerd out!:** [LinkedIn](https://www.linkedin.com/in/monali-nayak/)
 
