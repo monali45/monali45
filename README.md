@@ -4,8 +4,8 @@
 ---
 
 ### 🔭 What I'm Working On
-> I am a Senior Platform Engineer at Elastic with 6+ years of experience focused on the intersection of Platform & AI
-- **AI Infrastructure:** Re-architecting GKE clusters to support high-scale GenAI workloads.
+> Building at the intersection of Platform & AI with 6+ years of experience in scaling resilient infrastructure  
+- **AI Infra:** Re-architecting GKE clusters to support high-scale GenAI workloads.
 - **AI/ML Ops:** Implementation of **Envoy AI Gateway** and **MCP Servers** for enterprise use cases.
 - **Cloud Native Governance:** Driving the adoption of **GitOps** and **Policy as Code** to standardize deployments and enhance reliability across Enterprise.
 
@@ -35,7 +35,7 @@
 
 ### 🌱 Contributions & Community
 * **National Evaluator:** Smart India Hackathon (SIH) 2025.
-* **CNCF contributor:** Active part to the CNCF projects.
+* **CNCF:** Active contributor to the CNCF projects.
 
 ### ⚡ Fun Fact
 When I'm not debugging distributed systems, I trade infrastructure code for a paintbrush.  
