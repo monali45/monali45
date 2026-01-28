@@ -3,7 +3,8 @@
 
 I bridge the gap between **Application Logic** and **Deep Infrastructure**, building resilient systems that don't break at 3 AM. 
 
-Currently, I am focused on the intersection of **SRE and GenAI**, architecting production-ready environments for Large Language Models. Beyond just "keeping the lights on," I specialize in designing **Internal Developer Platforms (IDP)**—creating self-service paved paths that empower developers to innovate while enforcing enterprise-grade security and compliance.
+Currently, I am focused on the intersection of **SRE and GenAI**, architecting production-ready environments for Large Language Models.  
+Beyond just "keeping the lights on", I specialize in designing **Internal Developer Platforms (IDP)** creating self-service paved paths that empower developers to innovate while enforcing enterprise-grade security and compliance.
 
 ---
 
