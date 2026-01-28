@@ -12,8 +12,8 @@
 ---
 
 ### 🔍 Currently Learning
-- ⛓️ **Auth/Authz in MCP servers & Agents**
-- 🕸️ **Agentic AI Design Patterns**
+- **Auth/Authz in MCP servers & Agents**
+- **Agentic AI Design Patterns**
 
 ---
 
