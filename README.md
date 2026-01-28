@@ -38,8 +38,8 @@
 * **CNCF:** Active contributor to the CNCF projects.
 
 ### ⚡ Fun Fact
-When I'm not debugging distributed systems, I trade infrastructure code for a paintbrush.  
-You can find me on my yoga mat 🧘🏻‍♀️, working on a new painting 🎨, or hunting for the city's best food spots.🍝
+When I'm not debugging distributed systems, I trade code for a paintbrush.  
+You can find me on my yoga mat 🧘🏻‍♀️, working on a new painting 🎨, or hunting for the best food spots.🍝
 
 ---
 
