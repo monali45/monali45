@@ -4,7 +4,7 @@
 ---
 
 ### 🔭 What I'm Working On
-> Building at the intersection of Platform & AI with 6+ years of experience in scaling resilient infrastructure  
+> Building at the intersection of Platform & AI with 6+ years of experience in scaling resilient systems  
 - **AI Infra:** Re-architecting GKE clusters to support high-scale GenAI workloads.
 - **AI/ML Ops:** Implementation of **Envoy AI Gateway** and **MCP Servers** for enterprise use cases.
 - **Cloud Native Governance:** Driving the adoption of **GitOps** and **Policy as Code** to standardize deployments and enhance reliability across Enterprise.
