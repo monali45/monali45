@@ -1,4 +1,4 @@
-# Hi there, I'm Monali Nayak 👋
+## Hi there, I'm Monali Nayak 👋
 ### Senior Platform Engineer @ Elastic | Cloud Native & AI Infrastructure
 
 I bridge the gap between **Application Logic** and **Deep Infrastructure**, building resilient systems that don't break at 3 AM. 
