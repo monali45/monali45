@@ -5,14 +5,14 @@
 
 ### 🔭 What I'm Working On
 > Building at the intersection of Platform & AI with 6+ years of experience in scaling resilient systems  
-- **AI Infra:** Re-architecting GKE clusters to support high-scale GenAI workloads.
-- **AI/ML Ops:** Implementation of **Envoy AI Gateway** and **MCP Servers** for enterprise use cases.
-- **Cloud Native Governance:** Driving the adoption of **GitOps** and **Policy as Code** to standardize deployments and enhance reliability across Enterprise.
+- Re-architecting GKE clusters to support high-scale GenAI workloads.
+- Implementation of **Envoy AI Gateway** and **MCP Servers** for enterprise use cases.
+- Driving the adoption of **GitOps** and **Policy as Code** to standardize deployments and governance across Enterprise.
 
 ---
 
 ### 🔍 Currently Learning
-- ⛓️ **Auth in MCP servers & Agents**
+- ⛓️ **Auth/Authz in MCP servers & Agents**
 - 🕸️ **Agentic AI Design Patterns**
 
 ---
