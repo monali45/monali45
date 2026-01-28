@@ -1,4 +1,4 @@
-## Hi there, I'm Monali Nayak 👋
+## Hi there, I'm Monali Nayak 👋🏻
 ### Senior Platform Engineer @ Elastic | Cloud Native & AI Infrastructure 
 
 ---
